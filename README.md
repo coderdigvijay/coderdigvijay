@@ -1,38 +1,175 @@
-# 🌟 Welcome to My GitHub Profile!
+<div align="center">
 
-Hi there! 👋 I'm **Digvijay Singh**, a passionate **Full Stack Developer** and **Software Enthusiast** exploring the realms of technology to build innovative solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Digvijay%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20GenAI%20%26%20LLM%20Applications&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/coder-digvijay-singh">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Skillbit+for+30%2C000%2B+users;Shipping+RAG+%26+LangGraph+agents+in+production;1288+Global+Rank+%40+LeetCode+Biweekly+129;Full-Stack+%2B+GenAI+%7C+React+%C2%B7+FastAPI+%C2%B7+LangChain&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=2000" />
+</a>
 
-## 💻 **Tech Stack & Skills**
+<br/>
 
+<a href="https://www.linkedin.com/in/coder-digvijay-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://coderdigvijay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.leetcode.com/digvijay76"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:coderdigvijay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- **Languages**: HTML, CSS, JavaScript ,C , C++ , SQL
-- **Frameworks & Tools**: React.js, TailwindCSS , Express.js, Mongoose
-- **Database**: MongoDB , MySQL
+</div>
 
-### 📦 **Tools & Platforms**
-- **Version Control**: Git, GitHub
-- **IDEs**: VS Code
-- **API Testing**: Postman
-- **Deployment**: Free resources like Netlify, Vercel
+<br/>
 
----
+## About Me
 
+I'm a Full-Stack Software Engineer building production SaaS platforms and LLM-powered applications with **React, FastAPI, Node.js, and PostgreSQL**.
 
+```text
+const digvijay = {
+    role: "Full-Stack Engineer (GenAI focus)",
+    company: "Connect Secure Technologies",
+    building: "Skillbit - multi-tenant SaaS LMS, 30,000+ users",
+    impact: "cut dashboard load time 92% (5s -> 400ms)",
+    aiStack: ["RAG", "LangGraph agents", "MCP", "LLM evaluation"],
+    currentlyLearning: "deeper agentic architectures & LLM evals",
+    funFact: "rank 1288 globally, LeetCode Biweekly 129"
+};
+```
 
----
+- Sole full-stack engineer on **Skillbit**: schema design, 50+ REST APIs, RBAC/SSO, zero-downtime migrations, and the React frontend
+- Built **RAG pipelines** (LangChain, embeddings, vector search) and **agentic workflows** (LangGraph, tool/function calling, MCP) with AI guardrails and PII sanitization
+- 600+ DSA problems solved, ranked **1288 globally** in LeetCode Biweekly Contest 129
 
+<br/>
 
----
+## Tech Stack
 
-## 📝 **Connect With Me**
-- **LinkedIn**: [Digvijay Singh](https://www.linkedin.com/in/coderdigvijay/)
-- **Portfolio**: [Visit My Website](https://coderdigvijay.github.io)
-- **Email**: coderdigvijay@gmail.com
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nodejs,express,react,nextjs,tailwind,postgres,mongodb,redis,docker,aws,git,postman,github,cpp&theme=dark&perline=9" />
 
-> "Code is like humor. When you have to explain it, it’s bad." - *Cory House*
+<br/><br/>
 
-Let’s collaborate and build something amazing! 🚀
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20DB-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-3C873A?style=flat-square"/>
+
+</div>
+
+<br/>
+
+## Experience
+
+<table>
+<tr><td>
+
+**Software Engineer (Full Stack & GenAI)** &nbsp;|&nbsp; Connect Secure Technologies Pvt. Ltd. &nbsp;|&nbsp; *Jan 2026 - Present*
+Architected and shipped **Skillbit**, a multi-tenant SaaS LMS, as sole engineer. Built LLM recommendation and resume/skill extraction features with prompt engineering, PII sanitization, RAG pipelines, and LangGraph agentic workflows with MCP integrations. Cut initial dashboard load 92% (5s to 400ms).
+
+</td></tr>
+<tr><td>
+
+**Associate Functional Consultant** &nbsp;|&nbsp; ADP Pvt. Ltd. &nbsp;|&nbsp; *Oct 2025 - Jan 2026*
+Mapped enterprise HR and payroll process flows for client implementations, reducing manual steps in reconciliation and reporting.
+
+</td></tr>
+<tr><td>
+
+**STEM & AI Mentor** &nbsp;|&nbsp; Amazeheads &nbsp;|&nbsp; *Apr 2025 - Oct 2025*
+Designed and delivered 30+ hands-on workshops on AI, Robotics, 3D Printing, Drones, and AR/VR.
+
+</td></tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Vedic Kundali
+AI Kundali platform combining Swiss Ephemeris astronomical calculations with Gemini for conversational chart interpretation via LLM prompt orchestration and natural-language queries.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Chatu
+Real-time messaging platform with sub-second delivery, typing indicators, read receipts, and presence tracking over WebSockets.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=coderdigvijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderdigvijay&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderdigvijay&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderdigvijay&theme=tokyo-night&hide_border=true" width="98%"/>
+
+</div>
+
+<br/>
+
+## Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=coderdigvijay&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/coderdigvijay/coderdigvijay/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Animates once the <code>snake.yml</code> workflow below runs on your repo (first run takes a few minutes).</sub>
+</div>
+
+<br/>
+
+## Education
+
+**G.L. Bajaj Institute of Technology and Management** - B.Tech, Computer Science and Engineering (AI) &nbsp;|&nbsp; 2021 - 2025 &nbsp;|&nbsp; CGPA: 7.74
+
+<br/>
+
+<div align="center">
+
+## Let's Connect
+
+<a href="https://www.linkedin.com/in/coder-digvijay-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://coderdigvijay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.leetcode.com/digvijay76"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:coderdigvijay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=coderdigvijay&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=150&section=footer" width="100%"/>
+
+</div>
