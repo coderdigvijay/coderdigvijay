@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Digvijay%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20GenAI%20and%20LLM%20Applications&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2639,35:6EC6DA,70:F4A261,100:E76F51&height=220&section=header&text=Digvijay%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20GenAI%20and%20LLM%20Applications&descAlignY=55&descSize=18&descColor=f5ead1" width="100%"/>
 
 <a href="https://www.linkedin.com/in/coder-digvijay-singh">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Skillbit+for+30%2C000%2B+users;Shipping+RAG+and+LangGraph+agents+in+production;1288+Global+Rank+%40+LeetCode+Biweekly+129;Full-Stack+%2B+GenAI+%7C+React+%C2%B7+FastAPI+%C2%B7+LangChain&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=2000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Skillbit+for+30%2C000%2B+users;Shipping+RAG+and+LangGraph+agents+in+production;1288+Global+Rank+%40+LeetCode+Biweekly+129;Full-Stack+%2B+GenAI+%7C+React+%C2%B7+FastAPI+%C2%B7+LangChain&font=Fira+Code&center=true&width=600&height=45&color=F4A261&vCenter=true&size=22&pause=2000" />
 </a>
 
 <br/>
@@ -47,14 +47,14 @@ const digvijay = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-2A9D8F?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-264653?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector%20DB-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-E76F51?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20DB-6EC6DA?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-F4A261?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth%202.0-3C873A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-9CAF88?style=flat-square"/>
 
 </div>
 
@@ -120,21 +120,21 @@ Real-time messaging platform with sub-second delivery, typing indicators, read r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coderdigvijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderdigvijay&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coderdigvijay&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderdigvijay&theme=gruvbox&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderdigvijay&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderdigvijay&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderdigvijay&layout=compact&theme=gruvbox&hide_border=true" height="165"/>
 
 </div>
 
 <br/>
 
-## Trophy Case
+## Live Metrics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=coderdigvijay&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://raw.githubusercontent.com/coderdigvijay/coderdigvijay/main/github-metrics.svg" width="100%"/>
+
+<sub>Self-hosted via the <code>metrics.yml</code> workflow below, achievements, language breakdown, and activity calendar, refreshed daily and committed to this repo (no third-party server dependency at view time).</sub>
 </div>
 
 <br/>
@@ -166,10 +166,10 @@ Real-time messaging platform with sub-second delivery, typing indicators, read r
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=coderdigvijay&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=coderdigvijay&style=for-the-badge&color=E76F51&label=PROFILE+VIEWS" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,35:F4A261,70:6EC6DA,100:1A2639&height=150&section=footer" width="100%"/>
 
 </div>
