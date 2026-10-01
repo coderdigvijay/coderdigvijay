@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2639,35:6EC6DA,70:F4A261,100:E76F51&height=220&section=header&text=Digvijay%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20GenAI%20and%20LLM%20Applications&descAlignY=55&descSize=18&descColor=f5ead1" width="100%"/>
 
 <a href="https://www.linkedin.com/in/coder-digvijay-singh">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Skillbit+for+30%2C000%2B+users;Shipping+RAG+and+LangGraph+agents+in+production;1288+Global+Rank+%40+LeetCode+Biweekly+129;Full-Stack+%2B+GenAI+%7C+React+%C2%B7+FastAPI+%C2%B7+LangChain&font=Fira+Code&center=true&width=600&height=45&color=F4A261&vCenter=true&size=22&pause=2000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Skillbit+for+30%2C000%2B+users;Shipping+RAG+and+LangGraph+agents+in+production;1288+Global+Rank+%40+LeetCode+Biweekly+129;Full-Stack+%2B+GenAI+%7C+React+%C2%B7+FastAPI+%C2%B7+LangChain&font=Fira+Code&center=true&width=760&height=45&color=F4A261&vCenter=true&size=20&pause=2000" />
 </a>
 
 <br/>
